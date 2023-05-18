@@ -1,1 +1,1 @@
-# 0518practice
+# 0518djangotest
